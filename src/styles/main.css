@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+  --color-primary: #47ABED;
+  --color-secondary: #2B70A1;
+  --color-tertiaty: #99a0a3;
+}
+
+a { 
+  @apply text-blue-700;
+}
+
+a:hover {
+  @apply border-b-2 border-blue-700;
+}
+
+.custom-days {
+  display:flex;
+  flex-direction: column;
+}
+
+.content p {
+  @apply my-6;
+}
+
+.content ul {
+  @apply my-6;
+}
+
+#map {
+  height: 400px; /* The height is 400 pixels */
+  width: 100%; /* The width is the width of the web page */
+}
+dt {
+  margin-left: -15px;
+}
+
+.svg-inline--fa {
+  width : 16px;
+}
+
+.round {
+  border-radius: 10%;
+}

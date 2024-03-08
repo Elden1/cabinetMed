@@ -1,0 +1,95 @@
+{
+  "company": {
+    "name": "Cabinet Médicale",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Horaires",
+      "href": "product"
+    },
+    {
+      "name": "Contact",
+      "href": "features"
+    }
+  ],
+  "mainHero": {
+    "title": " Docteur Betsch",
+    "subtitle": "Médecin généraliste",
+    "description": "Le Docteur Noëlla Betsch, médecin généraliste est établie à la Maison de santé de Lutzelhouse dans le Bas-Rhin pour répondre à tous vos besoins médicaux.",
+    "img": "/assets/images/illustration-femmes-iraniennes-dessinees-main/8069887.jpg",
+    "primaryAction": {
+      "text": "Horaires",
+      "href": "product"
+    },
+    "secondaryAction": {
+      "text": "Contacts",
+      "href": "about"
+    }
+  },
+  "product": {
+    "title": "Horaires et activités",
+    "imgTitle": "Horaires et activités",
+    "imgSrc": "/assets/images/hand-drawn-doctor-cartoon-illustration/9274712.jpg",
+    "imgAtt": "Image de Freepik"
+  },
+  "days": ["Lundi ", "Mardi ", "Mercredi ", "vendredi ", "Samedi "],
+  "schedule": [
+    "Visites à domicile le matin, consultations libres de 15h à 18h30.",
+    "Consultations libres de 9h à 12h, visites à domicile l'après-midi.",
+    "Consultations libres de 9h à 12h, sur rendez-vous l'après-midi.",
+    "Sur rendez vous le matin, visites à domicile l'après-midi.",
+    "Le samedi de 9h à 12h en alternance avec le Docteur Chazerand."
+  ],
+
+  "features": {
+    "title": "Docteur Noëlla Betsch",
+    "description": "Le Dr. Betsch vous accueille avec plaisir au cabinet de médecine générale à Lutzelhouse.",
+    "imgTitle": "Location",
+    "imgSrc": "/assets/images/female-doctor-character/v869-wan-29.jpg",
+    "items": [
+      {
+        "name": "Adresse",
+        "description": [
+          "1 rue des roseaux - 67130 LUTZELHOUSE",
+          "Accès à la maison médicale par le parking de l'Ehpad de Lutzelhouse"
+        ],
+        "icon": "location-dot"
+      },
+      {
+        "name": "Téléphone",
+        "description": "03 88 47 15 04",
+        "icon": "phone"
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
