@@ -58,8 +58,8 @@ const Features = () => {
                   <dd className="mt-2 ml-16 text-base text-gray-500">
                     <p>1 rue des roseaux - 67130 LUTZELHOUSE</p>
                     <p>
-                      Accès à la maison médicale par le parking de l'Ehpad de
-                      Lutzelhouse
+                      Accès à la maison médicale par le parking de l&apos;Ehpad
+                      de Lutzelhouse.
                     </p>
                   </dd>
                 </div>
